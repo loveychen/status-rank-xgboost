@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from status_rank_xgboost.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "status_rank_xgboost"
